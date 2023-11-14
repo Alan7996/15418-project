@@ -4,4 +4,5 @@ plugins:
 
 title: [Graphics Gang]
 description: [Alan Lee & Shilin Ma's F23 15418 Final Project Website]
-show_downloads: [false]
+show_downloads: false
+locale: "en-US"
