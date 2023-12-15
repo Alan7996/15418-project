@@ -10,6 +10,8 @@ The final project report can be found [here](project_final.pdf).
 
 The final poster presentation slides can be found [here](project_poster.pdf).
 
+The source code contains solution to another course. Please email us if you need access.
+
 # Schedule
 Our most up to date schedule for the project is shown below:
 
